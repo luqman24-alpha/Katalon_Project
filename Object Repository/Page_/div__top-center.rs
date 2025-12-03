@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__top-center</name>
+   <tag></tag>
+   <elementGuidId>45333e9d-7774-412c-bf2c-86b940ef1dbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.post-media.entry > a > div.top-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div/div[2]/div[2]/div[2]/div[2]/div/div/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;https://dailypakistan.com.pk/E-Paper/lahore/2025-09-10/page-1&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>842f7da2-3cb9-488e-b8db-03dd3ec53a06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>top-center</value>
+      <webElementGuid>39df1f63-46b6-4553-9b29-5223f2a964e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;container sitecontainer 1024-into-512-wrapper bgw&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-sm-3 col-xs-12&quot;]/div[@class=&quot;widget e-paper-widget block-4&quot;]/div[@class=&quot;review-posts m30&quot;]/div[@class=&quot;post-review post-review-epaper&quot;]/div[@class=&quot;post-media entry&quot;]/a[1]/div[@class=&quot;top-center&quot;]</value>
+      <webElementGuid>1446faa9-b450-41a2-a57d-3d1ef7de6a76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div/div[2]/div[2]/div[2]/div[2]/div/div/a/div</value>
+      <webElementGuid>d0755ea5-4c58-4542-b6a0-bdf623c4595e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/a/div</value>
+      <webElementGuid>f277f5e3-0272-4244-993a-0b4226c428d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

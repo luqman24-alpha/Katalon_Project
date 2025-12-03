@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__top-center</name>
+   <tag></tag>
+   <elementGuidId>f58a4421-f924-43a6-87eb-b8a16b3fa83f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;ویڈیو: حکومت نے اوورسیز پاکستانیوں کو ڈھیروں خوشخبریاں سنا دیں، سب کو فائلر بنا دیا، ایک درخواست پر مسائل حل کرنے کا وعدہ، ایم ڈی اوورسیز پاکستانیز فاؤنڈیشن&quot;] > div.top-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div/div[2]/div[2]/div[3]/div[2]/div/div/div/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;ویڈیو: حکومت نے اوورسیز پاکستانیوں کو ڈھیروں خوشخبریاں سنا دیں، سب کو فائلر بنا دیا، ایک درخواست پر مسائل حل کرنے کا وعدہ، ایم ڈی اوورسیز پاکستانیز فاؤنڈیشن&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6c75d499-e3c3-49f2-af9e-c04525377295</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>top-center</value>
+      <webElementGuid>11f2df06-cf41-46e1-acf3-aa88e8360093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>ویڈیو: حکومت نے اوورسیز پاکستانیوں کو ڈھیروں خوشخبریاں سنا دیں، سب کو فائلر بنا دیا، ایک درخواست پر مسائل حل کرنے کا وعدہ، ایم ڈی اوورسیز پاکستانیز فاؤنڈیشن</value>
+      <webElementGuid>da3fa796-2393-4bb0-82a3-e497814eab48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>ویڈیو: حکومت نے اوورسیز پاکستانیوں کو ڈھیروں خوشخبریاں سنا دیں، سب کو فائلر بنا دیا، ایک درخواست پر مسائل حل کرنے کا وعدہ، ایم ڈی اوورسیز پاکستانیز فاؤنڈیشن</value>
+      <webElementGuid>b8305f80-f55c-491d-9c35-40430674783c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;container sitecontainer bgw&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-sm-3 col-xs-12&quot;]/div[@class=&quot;widget block-7&quot;]/div[@class=&quot;review-posts m30&quot;]/div[@class=&quot;post-review&quot;]/div[@class=&quot;post-media entry&quot;]/div[@class=&quot;tt-news-img&quot;]/a[1]/div[@class=&quot;top-center&quot;]</value>
+      <webElementGuid>8b1bf851-2b14-438e-95d4-27468b6af3cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div/div[2]/div[2]/div[3]/div[2]/div/div/div/a/div</value>
+      <webElementGuid>939f2516-ce9e-49ba-b25e-c20b375e3842</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/a/div</value>
+      <webElementGuid>3ce67727-ae06-4ca9-9d70-9dc6ade6c8a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'ویڈیو: حکومت نے اوورسیز پاکستانیوں کو ڈھیروں خوشخبریاں سنا دیں، سب کو فائلر بنا دیا، ایک درخواست پر مسائل حل کرنے کا وعدہ، ایم ڈی اوورسیز پاکستانیز فاؤنڈیشن' and @alt = 'ویڈیو: حکومت نے اوورسیز پاکستانیوں کو ڈھیروں خوشخبریاں سنا دیں، سب کو فائلر بنا دیا، ایک درخواست پر مسائل حل کرنے کا وعدہ، ایم ڈی اوورسیز پاکستانیز فاؤنڈیشن']</value>
+      <webElementGuid>427696cd-42d4-4252-add7-c953d0d5d170</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
